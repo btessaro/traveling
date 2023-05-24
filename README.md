@@ -15,4 +15,4 @@ These results corroborate [previous ones](https://onlinelibrary.wiley.com/doi/ab
 Well, it looks like another gender gap is found in traveling and exploring the world. Perhaps this is a consequence of the gender pay gap, although many other variables could play an important part such as [women being the primary childcarers](https://link.springer.com/article/10.1007/s10834-020-09742-4). 
 
 2) The script entitled traveler-trip explores a dataset that contains travel history details of 139 people from all over the world. So far this is what I found:
-- 
+- Hotels and Airbnbs vary a lot in prices - they can cost from $14 to $1143 a night! But, most people end up chosing to stay in hotels up to $200 a night. 
