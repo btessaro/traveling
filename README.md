@@ -26,7 +26,7 @@ Well, it looks like another gender gap is found in traveling and exploring the w
 - Most people spend up to about \$220 of their daily travel budget on transport (this is diluting the cost of the travel to destination by day).
 
 
-**Most expensive** countries in this dataset (please note this is not generalisable as this dataset contains a limited number of datapoints): (see Tableau visualisation of this data [here]())
+**Most expensive** countries in this dataset (please note this is not generalisable as this dataset contains a limited number of datapoints): (see Tableau visualisation of this data [here](https://public.tableau.com/app/profile/bruna.tessaro2596/viz/traveler-data/Dashboard2?publish=yes))
 - **Airbnb: Japan**
 - **Hostel: South Africa**
 - **Hotel: New Zealand**
