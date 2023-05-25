@@ -24,6 +24,8 @@ Well, it looks like another gender gap is found in traveling and exploring the w
 - Among all modes of transport, travelling by train varies the most in price (from \$11 to \$357). 
 - Travelling by bus is the cheapest way to travel, costing an average of \$10 of the daily travel budget.
 - Most people spend up to about \$220 of their daily travel budget on transport (this is diluting the cost of the travel to destination by day).
+
+
 **Most expensive** countries in this dataset (please note this is not generalisable as this dataset contains a limited number of datapoints): (see Tableau visualisation of this data [here]())
 - **Airbnb: Japan**
 - **Hostel: South Africa**
