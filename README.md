@@ -1,4 +1,4 @@
-# Who travels more? ✈️🧳🗺️
+# Travel EDA✈️🧳🗺️
 
 Traveling is one of the things I love the most! So I decided to create a project on traveling - everything I can find about traveling - who leads the scoreboard, how do they travel, how much to they spend, where do they stay? This is an ongoing exploration, so make sure to come back for updates!
 So far this is what I've found:
@@ -14,8 +14,29 @@ These results corroborate [previous ones](https://onlinelibrary.wiley.com/doi/ab
 
 Well, it looks like another gender gap is found in traveling and exploring the world. Perhaps this is a consequence of the gender pay gap, although many other variables could play an important part such as [women being the primary childcarers](https://link.springer.com/article/10.1007/s10834-020-09742-4). 
 
+
+
 2) The script entitled traveler-trip explores a dataset that contains travel history details of 139 people from all over the world. So far this is what I found:
-- Hotels and Airbnbs vary a lot in prices - they can cost from $14 to $1143 a night! But, most people end up chosing to stay in hotels up to $200 a night. 
+- Airbnbs vary a lot in prices - they can cost from \$229 to \$1000 a night, but most people end up chosing to stay in places up to about \$200 a night
+- The most expensive accommodation is hotel, costing an average of \$220 a night.
+- The cheapest way to spend the night while traveling is staying in guesthouses, which cost an average of \$44 a night.
+- Cars are the most expensive mode of transport with an average cost of \$159 on the daily travel budget. 
+- Among all modes of transport, travelling by train varies the most in price (from \$11 to \$357). 
+- Travelling by bus is the cheapest way to travel, costing an average of \$10 of the daily travel budget.
+- Most people spend up to about \$220 of their daily travel budget on transport (this is diluting the cost of the travel to destination by day).
+**Most expensive** countries in this dataset (please note this is not generalisable as this dataset contains a limited number of datapoints): (see Tableau visualisation of this data [here]())
+- **Airbnb: Japan**
+- **Hostel: South Africa**
+- **Hotel: New Zealand**
+- **Resort: Hawaii**
+
+**Cheapest countries to stay in**:
+-- **Airbnb: Greece**
+- **Hostel: Australia, Canada, France and Indonesia**
+- **Hotel: Italy**
+- **Resort: Indonesia**
+
+![Screenshot 2023-05-25 at 3 14 28 pm](https://github.com/btessaro/traveling/assets/68346837/f310085f-c84a-495d-a75b-02a839123db1)
 
 
 
