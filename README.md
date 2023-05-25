@@ -31,7 +31,7 @@ Well, it looks like another gender gap is found in traveling and exploring the w
 - **Resort: Hawaii**
 
 **Cheapest countries to stay in**:
--- **Airbnb: Greece**
+- **Airbnb: Greece**
 - **Hostel: Australia, Canada, France and Indonesia**
 - **Hotel: Italy**
 - **Resort: Indonesia**
