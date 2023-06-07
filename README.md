@@ -6,8 +6,8 @@ So far this is what I've found:
 ## Who travels more?
 1) The script entitled "holiday packages" answers the question of who holidays more by exploring a dataset of number of trips by working men and women.
 I found out that:
-- single men working in large business are the globetrotters! They make an average of 4.4 trips a year, followed by unmarried women who make about 3.9 trips a year. Interestingly, single women from large businesses travel only 2.7 times a year (at the bottom of our list).
-- divorced women who work in large business are the ones who travel less - making only 2.5 trips a year! In contrast, divorced men who work in large business travel 3.8 times in a year, coming in third place in our list! 
+- single men working in large business are the globetrotters! They make an average of 4.4 trips a year, followed by unmarried women who travel 12% less, making about 3.9 trips a year. Interestingly, single women from large businesses travel nearly 40% less than the top of the list, making only 2.7 trips a year.
+- divorced women who work in large business are the ones who travel less - making only 2.5 trips a year! In contrast, divorced men who work in large business travel 56% more, making 3.8 trips in a year, coming in third place in our list! 
 
 You can find a Tableau interactive visualisation I created [here](https://public.tableau.com/app/profile/bruna.tessaro2596/viz/whotravelsmore/Dashboard1?publish=yes).
 ![Screenshot 2023-05-24 at 4 58 46 pm](https://github.com/btessaro/traveling/assets/68346837/2cd53048-a758-41d0-9be1-b8a238e8080a)
