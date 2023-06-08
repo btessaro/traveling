@@ -10,7 +10,9 @@ I found out that:
 - divorced women who work in large business are the ones who travel less - making only 2.5 trips a year! In contrast, divorced men who work in large business travel 56% more, making 3.8 trips in a year, coming in third place in our list! 
 
 You can find a Tableau interactive visualisation I created [here](https://public.tableau.com/app/profile/bruna.tessaro2596/viz/whotravelsmore/Dashboard1?publish=yes).
-![Screenshot 2023-05-24 at 4 58 46 pm](https://github.com/btessaro/traveling/assets/68346837/2cd53048-a758-41d0-9be1-b8a238e8080a)
+![Screenshot 2023-06-08 at 2 25 19 pm](https://github.com/btessaro/traveling/assets/68346837/4d7ecff8-e205-45a4-a193-f7a0a7387780)
+
+
 These results corroborate [previous ones](https://onlinelibrary.wiley.com/doi/abs/10.1111/issj.12391#:~:text=The%20obtained%20results%20confirm%20the,for%20purposes%20other%20than%20work.).
 
 Well, it looks like another gender gap is found in traveling and exploring the world. Perhaps this is a consequence of the gender pay gap, although many other variables could play an important part such as [women being the primary childcarers](https://link.springer.com/article/10.1007/s10834-020-09742-4). 
